@@ -1,1 +1,2 @@
 # Google-Clon
+This was my first web related project using basic knowledge of HTML and CSS, as a self-taught learner I tried to apply good semantic practices to the HTML structure and with this project I was introduced to the concepts of grid and flexbox and their differences.
